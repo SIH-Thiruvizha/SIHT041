@@ -1,0 +1,26 @@
+Title: The Coal Mines Act, 1952
+Description: An act to regulate the working conditions in coal mines and improve safety measures for workers.
+
+Title: Indian Explosives Act, 1884
+Description: Legislation governing the manufacture, possession, use, sale, transport, import, and export of explosives in India.
+
+Title: Colliery Control Order, 2000
+Description: A regulatory order outlining safety and operational procedures for collieries.
+
+Title: Colliery Control Rules, 2004
+Description: Rules specifying the procedures and standards for the management and operation of collieries.
+
+Title: The Coal Mines Regulations, 2017
+Description: Regulations covering various aspects of coal mining operations, including safety, health, and environmental protection.
+
+Title: The Payment of Wages (Mines) Rules, 1956
+Description: Rules governing the payment of wages to workers employed in mines.
+
+Title: Land Acquisition Act (CBA)
+Description: Legislation governing the acquisition of land for mining purposes, including compensation and rehabilitation provisions.
+
+Title: Land Acquisition (LA)
+Description: Regulations outlining procedures for the acquisition of land for various purposes, including mining.
+
+Title: Resettlement and Rehabilitation (RandR)
+Description: Guidelines and regulations concerning the resettlement and rehabilitation of communities affected by mining activities.
